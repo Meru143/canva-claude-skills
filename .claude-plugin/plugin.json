@@ -1,0 +1,10 @@
+{
+  "name": "canva-claude-skills",
+  "version": "1.0.0",
+  "description": "Canva skills for Claude Code",
+  "author": {
+    "name": "Canva"
+  },
+  "repository": "https://github.com/canva-sdks/canva-claude-skills",
+  "license": "MIT"
+}

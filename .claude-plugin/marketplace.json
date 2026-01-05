@@ -1,0 +1,23 @@
+{
+  "name": "canva-skills-marketplace",
+  "owner": {
+    "name": "Canva"
+  },
+  "plugins": [
+    {
+      "name": "canva-branded-presentation",
+      "description": "Create branded presentations with Canva",
+      "source": "./branded-presentation"
+    },
+    {
+      "name": "canva-design-translation",
+      "description": "Translate designs across languages with Canva",
+      "source": "./design-translation"
+    },
+    {
+      "name": "canva-social-media-resize",
+      "description": "Resize designs for social media platforms with Canva",
+      "source": "./social-media-resize"
+    }
+  ]
+}
